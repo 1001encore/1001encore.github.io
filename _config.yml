@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+title: Blog
+description: A minimal blog
+baseurl: ""
+url: "https://1001encore.github.io"
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
